@@ -1,14 +1,17 @@
 [
   {
     "img": "https://www.w3schools.com/howto/img_nature_wide.jpg",
-    "text": "Caption Text 1"
+    "text": "Caption Text 1",
+    "label": "First slide label"
   },
   {
     "img": "https://www.w3schools.com/howto/img_snow_wide.jpg",
-    "text": "Caption Text 2"
+    "text": "Caption Text 2",
+    "label": "Second slide label"
   },
   {
     "img": "https://www.w3schools.com/howto/img_mountains_wide.jpg",
-    "text": "Caption Text 3"
+    "text": "Caption Text 3",
+    "label": "Third slide label"
   }
 ]
