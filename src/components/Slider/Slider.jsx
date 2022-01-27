@@ -2,7 +2,7 @@ import React, { useState, useEffect } from 'react';
 
 import { Carousel } from 'react-bootstrap';
 
-import slides from '../../mock/slides.json';
+// import slides from '../../mock/slides.json';
 import catsAPI from '../../services/image-api';
 
 const Slider = () => {
